@@ -1,0 +1,18 @@
+{
+    "RPA": {
+        "RPA-FT-0001": {
+            "Executions": [
+                {
+                    "Datetime": "2024-02-21 12:00:00",
+                    "Runtime": "45s",
+                    "Result": true
+                },
+                {
+                    "Datetime": "2024-02-21 07:49:04.295758",
+                    "Runtime": "117.24747085571289",
+                    "Result": true
+                }
+            ]
+        }
+    }
+}
